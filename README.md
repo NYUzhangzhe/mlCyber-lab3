@@ -164,7 +164,7 @@ The performance of the repaired network is pretty good, especially at **X = 30**
 
 Plot the **accuracy (on clean test data)** and the **attack success rate (on backdoored test data)** as a function of the fraction of channels pruned  
 
-![index](D:\Desktop\index.png)
+![acc&asr](https://github.com/NYUzhangzhe/mlCyber-lab3/blob/main/index.png)
 
 we can find that, the **origin acc** is 98.6% and **attack success rate** is 100% on test data.
 
