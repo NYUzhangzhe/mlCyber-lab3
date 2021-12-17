@@ -1,2 +1,0 @@
-model_checkpoint_path: "repaired_net_2%.h5py"
-all_model_checkpoint_paths: "repaired_net_2%.h5py"
